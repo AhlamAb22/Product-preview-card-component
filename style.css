@@ -138,7 +138,7 @@ p {
 .current-price {
     color: var(--Dark-cyan);
     font-family: var(--headings-font);
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .visually-hidden:not(:focus):not(:active) {
