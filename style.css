@@ -109,7 +109,7 @@ body {
 }
 
 .card__content {
-    padding: 30px 25px;
+    padding: 25px;
     padding-top: 30px;
     display: grid;
     gap: 1rem;
