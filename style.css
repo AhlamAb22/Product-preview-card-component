@@ -104,13 +104,8 @@ body {
     overflow: hidden;
 }
 
-.card__picture{
-    background-size: contain
-}
-
 .card__content {
     padding: 25px;
-    padding-top: 30px;
     display: grid;
     gap: 1rem;
 }
